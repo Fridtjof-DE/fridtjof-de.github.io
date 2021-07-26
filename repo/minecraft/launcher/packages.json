@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Enhanced Vanilla",
+      "name" : "EnhancedVanilla",
+      "version" : "2021-07-26-17-15-37",
+      "location" : "enhancedvanilla.json",
+      "priority" : 10
+    }
+  ]
+}
