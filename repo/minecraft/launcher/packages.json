@@ -4,16 +4,23 @@
     {
       "title" : "Enhanced Vanilla 1.18",
       "name" : "EnhancedVanilla_1-18",
-      "version" : "2021-12-16-10-46-32",
+      "version" : "2022-03-27-11-57-08",
       "location" : "enhancedvanilla_1-18.json",
       "priority" : 18
     },
     {
       "title" : "Enhanced Vanilla 1.17",
       "name" : "EnhancedVanilla_1-17",
-      "version" : "2021-12-16-10-32-39",
+      "version" : "2022-03-27-11-56-55",
       "location" : "enhancedvanilla_1-17.json",
       "priority" : 17
+    },
+    {
+      "title" : "TechAndTrains_1-7",
+      "name" : "Tech and Trains 1.7",
+      "version" : "2022-03-27-11-57-16",
+      "location" : "tech-and-trains-1.7.json",
+      "priority" : 7
     }
   ]
 }
