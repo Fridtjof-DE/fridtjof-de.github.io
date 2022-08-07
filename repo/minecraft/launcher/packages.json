@@ -2,6 +2,13 @@
   "minimumVersion" : 1,
   "packages" : [
     {
+      "title" : "Enhanced Vanilla 1.19",
+      "name" : "EnhancedVanilla_1-19",
+      "version" : "2022-08-07-15-49-02",
+      "location" : "enhancedvanilla_1-19.json",
+      "priority" : 19
+    },
+    {
       "title" : "Enhanced Vanilla 1.18",
       "name" : "EnhancedVanilla_1-18",
       "version" : "2022-03-28-01-04-07",
